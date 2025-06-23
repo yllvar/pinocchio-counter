@@ -1,6 +1,6 @@
 # Pinocchio Counter - Solana Program
 
-A simple yet powerful counter program demonstrating core Solana program concepts with minimal dependencies.
+A simple counter program demonstrating core Solana program concepts with minimal dependencies.
 
 ## Features
 
